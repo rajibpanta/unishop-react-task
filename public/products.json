@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Handwoven Pashmina Shawl",
+    "vendor": "Himalayan Textiles",
+    "category": "Fashion",
+    "price": 3200,
+    "stock": 5,
+    "image": "https://via.placeholder.com/600x450?text=Pashmina+Shawl"
+  },
+  {
+    "id": 2,
+    "name": "Organic Gundruk Pack",
+    "vendor": "Everest Organics",
+    "category": "Grocery",
+    "price": 250,
+    "stock": 0,
+    "image": "https://via.placeholder.com/600x450?text=Gundruk"
+  },
+  {
+    "id": 3,
+    "name": "Dhaka Topi",
+    "vendor": "Kathmandu Crafts",
+    "category": "Fashion",
+    "price": 900,
+    "stock": 8,
+    "image": "https://via.placeholder.com/600x450?text=Dhaka+Topi"
+  },
+  {
+    "id": 4,
+    "name": "Himalayan Honey",
+    "vendor": "Everest Organics",
+    "category": "Grocery",
+    "price": 650,
+    "stock": 12,
+    "image": "https://via.placeholder.com/600x450?text=Himalayan+Honey"
+  },
+  {
+    "id": 5,
+    "name": "Handmade Lokta Notebook",
+    "vendor": "Kathmandu Crafts",
+    "category": "Stationery",
+    "price": 450,
+    "stock": 10,
+    "image": "https://via.placeholder.com/600x450?text=Lokta+Notebook"
+  },
+  {
+    "id": 6,
+    "name": "Woolen Himalayan Socks",
+    "vendor": "Himalayan Textiles",
+    "category": "Fashion",
+    "price": 700,
+    "stock": 6,
+    "image": "https://via.placeholder.com/600x450?text=Woolen+Socks"
+  }
+]
